@@ -1,3 +1,5 @@
+// Crear un hook nuestro!! Lo vamos a usar en SearchScreen, como cualquier otro hook
+
 import {useEffect, useState} from 'react';
 import yelp from '../apis/yelp';
 
