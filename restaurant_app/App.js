@@ -4,11 +4,13 @@ import { createAppContainer } from 'react-navigation';
 import { createStackNavigator } from 'react-navigation-stack';
 
 import SearchScreen from './src/screens/SearchScreen';
+import ResultsShowDetailScreen from './src/screens/ResultsShowDetailScreen';
 
 const navigator = createStackNavigator(
   // el primer param es un objeto con todos los screens que se van a usar luego al quierer navegar
   {
-    SearchScreen: SearchScreen
+    SearchScreen: SearchScreen,
+    ResultsShowDetail: ResultsShowDetailScreen
   }, 
   // el segundo param es un objeto que contiene: 
   // - initialRouteName = the default route that we want to show any time our app start up!! (optional when we have only one screen)
