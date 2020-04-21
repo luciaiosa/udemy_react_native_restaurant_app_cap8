@@ -18,8 +18,8 @@ yarn add axios
 
 ### Para la app, voy a usar yelp.com/fusion API para buscar restaurantes. Me tengo que registrar (Get started), crear nueva app
 
-En Business Endpoints / Business Search tengo la info del endpoint para search
-En Business Endpoints / Business Details tengo la info del restaurante por id
+En Business Endpoints / Business Search tengo la info del endpoint para search.
+En Business Endpoints / Business Details tengo la info del restaurante por id.
 
 ## 1. Instalar react-navigation
 ```
