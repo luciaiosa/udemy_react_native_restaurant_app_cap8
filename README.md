@@ -1,4 +1,4 @@
-# udemy_react_native_restaurant_app_cap8
+### udemy_react_native_restaurant_app_cap8
 
 ## Crear un nuevo proyecto con expo-cli:
 ```
@@ -16,7 +16,7 @@ yarn start
 yarn add axios
 ```
 
-## Para la app, voy a usar yelp.com/fusion API para buscar restaurantes. Me tengo que registrar (Get started), crear nueva app
+### Para la app, voy a usar yelp.com/fusion API para buscar restaurantes. Me tengo que registrar (Get started), crear nueva app
 
 En Business Endpoints / Business Search tengo la info del endpoint para search
 En Business Endpoints / Business Details tengo la info del restaurante por id
